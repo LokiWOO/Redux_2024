@@ -1,2 +1,11 @@
-# redux2024
-Redux2024 by LokiWOO est une modification graphique pour FiveM améliorant les effets visuels, l'éclairage et les textures. Compatible ESX Legacy 1.10.7.
+# Redux2024 - FiveM Graphics Mod
+
+## 🚀 Présentation
+Redux2024 est un pack graphique conçu pour FiveM. Il améliore l’éclairage, les ombres et les textures pour une immersion maximale.
+
+## 📥 Installation
+1. https://lunarp.azuriom.cloud/news/reduxbylokiwoo
+
+
+## 📜 Crédits
+Développé par [LokiWOO]
